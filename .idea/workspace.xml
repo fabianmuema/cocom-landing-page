@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af6709e5-6f3b-45c8-941c-c01b7ee26c48" name="Default Changelist" comment="" />
+    <list default="true" id="af6709e5-6f3b-45c8-941c-c01b7ee26c48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/fabianmuema.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +24,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZaEogjVsTiGWj9pSnfRsz94xaA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,11 +55,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585068980638</updated>
-      <workItem from="1585068994205" duration="127000" />
+      <workItem from="1585068994205" duration="1242000" />
+      <workItem from="1585071195180" duration="7796000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1585080348114">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.732@0.0.1366.732" timestamp="1585080348114" />
+    <state x="297" y="138" key="EditFileWatcherDialog" timestamp="1585071964559">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="297" y="138" key="EditFileWatcherDialog/0.0.1366.732@0.0.1366.732" timestamp="1585071964559" />
+    <state x="183" y="0" key="SettingsEditor" timestamp="1585071913304">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="183" y="0" key="SettingsEditor/0.0.1366.732@0.0.1366.732" timestamp="1585071913304" />
+    <state x="421" y="206" key="git4idea.ui.GitTagDialog" timestamp="1585080223856">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="421" y="206" key="git4idea.ui.GitTagDialog/0.0.1366.732@0.0.1366.732" timestamp="1585080223856" />
   </component>
 </project>
